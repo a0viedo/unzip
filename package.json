@@ -1,5 +1,5 @@
 {
-  "name": "node-unzip-2",
+  "name": "unzip",
   "version": "0.2.1",
   "description": "Unzip cross-platform streaming API compatible with fstream and fs.ReadStream",
   "author": "Hlib Dmytriiev <glebdmitriew@gmail.com>",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/glebdmitriew/node-unzip-2.git"
+    "url": "https://github.com/kidozen/unzip.git"
   },
   "license": "MIT",
   "dependencies": {
